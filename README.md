@@ -20,13 +20,6 @@
   💌  If you have any data-related challenges, I'm eager to help you find solutions that drive value and make a positive impact 😊: ⤵️
 </p>
 
-[//]: # (More badges in: https://dev.to/envoy_/150-badges-for-github-pnk#contact and use "style = flat-square")
+[![Linkedin Badge](https://img.shields.io/badge/-Julia%20Tolentino-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-tolentino/)](https://www.linkedin.com/in/julia-tolentino/) 
+[![Microsoft Outlook Badge](https://img.shields.io/badge/-julia.tolentino@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:julia.tolentino@hotmail.com)](mailto:julia.tolentino@hotmail.com)
 
-<p align="left">
-  <a href="#" title="E-mail">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:julia.tolentino@hotmail.com" alt="E-mail"/></a>
-
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-tolentino/" alt="LinkedIn"/></a>
-
-</p>
