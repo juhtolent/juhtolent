@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🛠️  <b> Tools: </b> Tableau, Power BI, Microsoft Excel, Google Sheets.
+  🛠️  <b> Tools: </b> Power BI, Microsoft Excel, Google Sheets.
 </p>
 
 <p align="left">
