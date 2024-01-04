@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  ⭐ <b> Languages: </b> SQL and Python (Pandas | Seaborn | Plotly)
+  ⭐ <b> Languages: </b> SQL, Python (Pandas | Seaborn | Plotly | Streamlit) and DAX/M (Power BI)
 </p>
 
 <p align="left">
-  🛠️  <b> Tools: </b> Power BI, Microsoft Excel, Google Sheets.
+  🛠️  <b> Tools: </b> Power BI, Microsoft Excel and Google Sheets.
 </p>
 
 <p align="left">
