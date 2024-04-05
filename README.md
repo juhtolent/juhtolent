@@ -3,7 +3,7 @@
 
 <p align="left"> 
 &nbsp; &nbsp; 
-  Hi there! I'm Julia, a data scientist with a passion for exploring and extracting insights from data. I've been working in the field of data analysis for the past year, where I've gained valuable experience in various aspects of data science, <b> including data cleaning, data wrangling, data visualization, and data modeling. </b> <br>
+  Hi there! I'm Julia, a data analyst with a passion for exploring and extracting insights from data. I've been working in the field of data analysis for the past two years, where I've gained valuable experience in various aspects of data science, <b> including data cleaning, data wrangling, data visualization, and data modeling. </b> <br>
 &nbsp; &nbsp; 
   My fascination with data stems from its ability to tell stories and uncover hidden patterns. I'm always intrigued by the potential of data to solve real-world problems and make informed decisions. Whether it's analyzing student behavior to improve college strategies or predicting trends to optimize business operations, I find immense satisfaction in transforming raw data into actionable insights.
 </p>
