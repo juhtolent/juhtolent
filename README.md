@@ -21,6 +21,6 @@
 </p>
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Julia%20Tolentino-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-tolentino/) 
-[![Microsoft Outlook Badge](https://img.shields.io/badge/-julia.tolentino@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:julia.mtolentino@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-tolentino/) 
+[![Microsoft Outlook Badge](https://img.shields.io/badge/-Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:julia.mtolentino@hotmail.com)
 
