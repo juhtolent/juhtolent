@@ -1,6 +1,6 @@
 
 # Julia Tolentino
-
+<!---
 <p align="left"> 
 &nbsp; &nbsp; 
   Hi there! I'm Julia, a data analyst with a passion for exploring and extracting insights from data. I've been working in the field of data analysis for the past two years, where I've gained valuable experience in various aspects of data science, <b> including data cleaning, data wrangling, data visualization, and data modeling. </b> <br>
@@ -9,16 +9,17 @@
 </p>
 
 <p align="left">
-  ⭐ <b> Languages: </b> SQL, Python (Pandas | Seaborn | Plotly | Streamlit) and DAX/M (Power BI)
+  ⭐ <b> Languages: </b> Python (Pandas | Seaborn | Plotly | Streamlit)
 </p>
 
 <p align="left">
-  🛠️  <b> Tools: </b> Power BI, Microsoft Excel and Google Sheets.
+  🛠️  <b> Tools: </b> 
 </p>
 
 <p align="left">
-  💌  If you have any data-related challenges, I'm eager to help you find solutions that drive value and make a positive impact 😊: ⤵️
+💌  If you have any data-related challenges, I'm eager to help you find solutions that drive value and make a positive impact 😊: ⤵️
 </p>
+-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Julia%20Tolentino-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-tolentino/) 
 [![Microsoft Outlook Badge](https://img.shields.io/badge/-julia.tolentino@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:julia.mtolentino@hotmail.com)
